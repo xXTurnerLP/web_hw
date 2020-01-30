@@ -1,0 +1,132 @@
+.main {
+    background-color: lightcyan;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#title {
+    color: black;
+    font-size: 115px;
+    text-align: center;
+    text-shadow: -3px 3px 4px #b6cef0;
+    margin: 30px;
+    padding: 0;
+    padding-bottom: 20px;
+}
+
+#title > a {
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    padding-left: 36%;
+    padding-right: 36%;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #b6f0d1;
+}
+
+.menu-item {
+    float: left;
+}
+
+.menu-item > a {
+    font-size: 40px;
+    font-weight: bold;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu-item > a:hover {
+    background-color: rgb(9, 155, 123);
+}
+
+#content {
+    font-size: 30px;
+    margin: 25px;
+}
+.column 
+{
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+ }
+    .row::after 
+ {
+    content: "";
+    clear: both;
+    display: table;
+ }
+ #h1 
+ {
+    border: 5px solid rgb(0, 255, 242);
+    
+ }
+ #footer
+ {
+    font-size: 300%;
+    margin: 20px;
+    width: 50%;
+    height: 40%;
+    background-color: black;
+    background-image:url("../res/obl.jpg");
+ }
+ #vw-text
+ {
+  
+   font-size: 30px;
+    margin: 25px;
+ }
+#pcvw
+{
+    border: 5px solid rgb(0, 255, 242);
+}
+#pcvw2
+{
+    border: 5px solid rgb(0, 255, 242);
+}   
+#pcvw3
+{
+    border: 5px solid rgb(0, 255, 242);
+}
+#opel-text
+{
+    font-size: 30px;
+    margin: 25px;
+}
+#pcopel
+{
+    border: 5px solid rgb(0, 255, 242);
+}
+#pcopel2
+{
+    border: 5px solid rgb(0, 255, 242);
+}
+#pcopel3
+{
+    border: 5px solid rgb(0, 255, 242);
+}
+#mc-text
+{
+ 
+  font-size: 30px;
+   margin: 25px;
+}
+#mc1
+{
+    border: 5px solid rgb(0, 255, 242); 
+}
+#mc2
+{
+    border: 5px solid rgb(0, 255, 242); 
+}
+#mc3
+{
+    border: 5px solid rgb(0, 255, 242); 
+}
